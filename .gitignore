@@ -1,0 +1,9 @@
+data/
+*.db
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.zed/
